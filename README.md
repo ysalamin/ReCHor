@@ -1,4 +1,4 @@
-# RecHor - Swiss Public Transport Timetable
+# ReCHor - Swiss Public Transport Timetable
 
 A desktop application for searching Swiss public transport schedules, similar to the official SBB/CFF app, built with JavaFX.
 
